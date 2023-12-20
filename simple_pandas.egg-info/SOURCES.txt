@@ -1,0 +1,8 @@
+README.md
+setup.py
+simple_pandas/__init__.py
+simple_pandas/pandas_head.py
+simple_pandas.egg-info/PKG-INFO
+simple_pandas.egg-info/SOURCES.txt
+simple_pandas.egg-info/dependency_links.txt
+simple_pandas.egg-info/top_level.txt
